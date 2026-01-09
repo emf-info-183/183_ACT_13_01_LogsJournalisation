@@ -107,7 +107,7 @@ logger.info(`${req.method} ${req.url} by ${user}`);
 
 ---
 
-### Étape 4 – Analyse et réflexion (3`0 min)
+### Étape 4 – Analyse et réflexion (30 min)
 
 📌 **Question de réflexion (à faire par écrit)** :
 
